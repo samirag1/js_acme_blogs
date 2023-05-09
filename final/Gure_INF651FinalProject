@@ -375,7 +375,6 @@ function createElemWithText(element = "p", text = "", className) {
   
   
   
-
   
   
   document.addEventListener('DOMContentLoaded', initApp);
